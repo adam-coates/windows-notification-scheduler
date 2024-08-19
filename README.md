@@ -14,9 +14,11 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 ![Notification Menu](./notification_scheduler_menu.PNG)
 
-- Type title and message
+1. Type title and message
 
 2. Select when the notification should occur (or reoccur)
+
+---
 
 ![Notification to take a break](./notification_scheduler_example1.PNG)
 
