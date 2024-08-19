@@ -20,20 +20,20 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 ---
 
-![Notification to take a break](./notification_scheduler_example1.PNG)
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example1.PNG" width="50">
 
 - Easily set up a notification to remind you to take a screen break
 
 ---
 
-![Notification to get milk on the way home](./notification_scheduler_example2.PNG)
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example2.PNG" width="50">
 
 - Or set notification to get remind yourself to get milk on the way home from work
 
 ## Notifications appear in the notification area of the taskbar
 
-![Example of the notification in the notification bar](./notification_bar.png)
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_bar.png" width="50">
 
-![](./1.png)
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/1.png" width="50">
 
-![Example notification to take a break](./2.png)
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/2.png" width="50">
