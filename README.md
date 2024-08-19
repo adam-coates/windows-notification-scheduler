@@ -12,7 +12,7 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 ## Examples
 
-![Notification Menu](./notification_scheduler_menu.PNG|width=50)
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_menu.PNG" width="200">
 
 1. Type title and message
 
@@ -21,7 +21,7 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_menu.PNG" width="200">
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example1.PNG" width="200">
 </p>
 - Easily set up a notification to remind you to take a screen break
 
@@ -35,9 +35,18 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 ## Notifications appear in the notification area of the taskbar
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_bar.png" width="150">
 
+</p>
+
+<p align="center">
+
 <img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/1.png" width="300">
+
+</p>
+
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/2.png" width="300">
 
