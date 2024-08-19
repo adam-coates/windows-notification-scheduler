@@ -12,7 +12,9 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 ## Examples
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_menu.PNG" width="200">
+</p>
 
 1. Type title and message
 
