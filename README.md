@@ -8,7 +8,8 @@
 
 ## Installation
 
-git clone `https://github.com/adam-coates/windows-notification-scheduler`
+1. git clone `https://github.com/adam-coates/windows-notification-scheduler`
+2. Execute `notify.ps1` in powershell
 
 ## Examples
 
