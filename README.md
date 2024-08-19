@@ -12,7 +12,7 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 ## Examples
 
-![Notification Menu](./notification_scheduler_menu.PNG)
+![Notification Menu](./notification_scheduler_menu.PNG | width=50)
 
 1. Type title and message
 
@@ -24,7 +24,11 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 - Easily set up a notification to remind you to take a screen break
 
+---
+
 ![Notification to get milk on the way home](./notification_scheduler_example2.PNG)
+
+- Or set notification to get remind yourself to get milk on the way home from work
 
 ## Notifications appear in the notification area of the taskbar
 
