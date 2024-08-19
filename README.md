@@ -20,20 +20,20 @@ git clone `https://github.com/adam-coates/windows-notification-scheduler`
 
 ---
 
-<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example1.PNG" width="50">
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example1.PNG" width="100">
 
 - Easily set up a notification to remind you to take a screen break
 
 ---
 
-<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example2.PNG" width="50">
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_scheduler_example2.PNG" width="100">
 
 - Or set notification to get remind yourself to get milk on the way home from work
 
 ## Notifications appear in the notification area of the taskbar
 
-<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_bar.png" width="50">
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/notification_bar.png" width="100">
 
-<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/1.png" width="50">
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/1.png" width="100">
 
-<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/2.png" width="50">
+<img src="https://raw.githubusercontent.com/adam-coates/windows-notification-scheduler/master/imgs/2.png" width="100">
